@@ -15,9 +15,9 @@ I'm a passionate 3rd-year Computer Engineering student specializing in embedded 
 
 ## 🌟 Featured Projects
 
-- **[iShop](https://github.com/your-github/ishop):** A full-stack e-commerce platform with product management, user authentication, and a powerful admin dashboard.
-- **[MyToDo](https://github.com/your-github/mytodo):** A full-stack task management app built with React for the frontend and Express with MongoDB for the backend, featuring robust state management with Redux.
-- **[Portfolio](https://github.com/your-github/portfolio):** A professional portfolio built with Next.js and Tailwind CSS, designed to highlight my projects and skills.
+- **[iShop](https://github.com/ilyesturki/iShop-NextJs):** A full-stack e-commerce platform with product management, user authentication, and a powerful admin dashboard.
+- **[MyToDo](https://github.com/ilyesturki/MyToDoFrontEnd):** A full-stack task management app built with React for the frontend and Express with MongoDB for the backend, featuring robust state management with Redux.
+- **[Portfolio](https://github.com/ilyesturki/MyPortfolio):** A professional portfolio built with Next.js and Tailwind CSS, designed to highlight my projects and skills.
 
 ## 📊 GitHub Stats
 
@@ -27,7 +27,7 @@ I'm a passionate 3rd-year Computer Engineering student specializing in embedded 
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Ilyes Turki](https://www.linkedin.com/in/ilyesturki/)
-- **Portfolio:** [ilyesturki.dev](https://ilyesturki.me)
+- **Portfolio:** [ilyesturki.me](https://ilyesturki.me)
 - **Email:** ilyes.turki.dev@gmail.com
 
 ## 🌱 Fun Fact
